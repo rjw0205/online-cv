@@ -61,14 +61,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: MetaPerturb: Transferable Regularizer for Heterogeneous Tasks and Architectures
         link: "https://arxiv.org/abs/2006.07540"
-        authors: Jeongun Ryu, Jaewoong Shin, Hae Beom Lee, Sung Ju Hwang
+        authors: J.Ryu, J.Shin, H.B.Lee, S.J.Hwang
         conference: arXiv preprint arXiv:2006.07540 (2020).
 
 skills:
