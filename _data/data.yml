@@ -15,7 +15,7 @@ sidebar:
     email: rjw0205@kaist.ac.kr
     phone: 010-5663-7394
     website:
-    linkedin: https://www.linkedin.com/in/ryoo-jeong-un-0a943a15a/
+    linkedin: Ryu Jeong Un
     github: rjw0205
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -66,10 +66,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: MetaPerturb: Transferable Regularizer for Heterogeneous Tasks and Architectures
+        link: "https://arxiv.org/abs/2006.07540"
+        authors: Jeongun Ryu, Jaewoong Shin, Hae Beom Lee, Sung Ju Hwang
+        conference: arXiv preprint arXiv:2006.07540 (2020).
 
 skills:
     title: Skills &amp; Proficiency
