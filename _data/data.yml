@@ -60,7 +60,7 @@ publications:
     papers:
       - title: MetaPerturb, Transferable Regularizer for Heterogeneous Tasks and Architectures
         link: "https://arxiv.org/abs/2006.07540"
-        authors: J.Ryu, J.Shin, H.B.Lee, S.J.Hwang
+        authors: J.Ryu, J.Shin, H.B.Lee and S.J.Hwang
         conference: arXiv preprint arXiv:2006.07540 (2020).
 
 skills:
