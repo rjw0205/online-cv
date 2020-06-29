@@ -47,13 +47,13 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Improving both Generalization and Adversarial Robustness with Weight Perturbation
+#         link: "#"
+        tagline: "Google (2019.10 - 2020.10)"
+      - title: Specialized Deep Learning Models for Automated Inspection Processes
+#         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
     title: Publications
