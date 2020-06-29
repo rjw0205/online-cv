@@ -33,20 +33,14 @@ sidebar:
         level: Intermediate
 
 education:
-    - degree: M.S. in School of Computing
-      university: KAIST (Korea Advanced Institute of Science and Technology)
+    - degree: M.S. in KAIST
+      university: Korea Advanced Institute of Science and Technology
       time: 2019.03 - 2021.02
-    - degree: B.S., Double major in School of Computing and Industrial Engineering
-      university: KAIST (Korea Advanced Institute of Science and Technology)
+    - degree: B.S. in KAIST
+      university: Korea Advanced Institute of Science and Technology
       time: 2014.03 - 2019.02
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Double major in School of Computing and Industrial Engineering.
           
 projects:
     title: Projects
