@@ -33,18 +33,20 @@ sidebar:
         level: Intermediate
 
 education:
-#     - degree: Gyeonggi Science High School for the Gifted
-#       time: 2011.03 - 2014.02
+    - degree: M.S. in School of Computing
+      university: KAIST (Korea Advanced Institute of Science and Technology)
+      time: 2019.03 - Current
+      details: |
+        GPA : 3.75/4.30 
+        Under the supervision of Professor Sung Ju Hwang.
     - degree: B.S. in School of Computing
       university: KAIST (Korea Advanced Institute of Science and Technology)
       time: 2014.03 - 2019.02
       details: |
+        GPA : 3.78/4.30 (Cum Laude)
         Double major in School of Computing & Industrial and Systems Engineering.
-    - degree: M.S. in School of Computing
-      university: KAIST (Korea Advanced Institute of Science and Technology)
-      time: 2019.03 - 2021.02
-      details: |
-        Under the supervision of Professor Sung Ju Hwang.
+    - degree: Gyeonggi Science High School
+      time: 2011.03 - 2014.02
           
 projects:
     title: Projects
